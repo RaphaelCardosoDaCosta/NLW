@@ -12,4 +12,4 @@ Projeto construído a partir do evento Next Level Week
 - CSS
 - GitHub e Git
 
-## Contato 💜💌💭😁
+## Contato 💜
