@@ -6,10 +6,14 @@
 
 Projeto construído a partir do evento Next Level Week
 
+🔗[clique para acessar o projeto](https://raphaelcardosodacosta.github.io/NLW/)
+
 ## Tecnologias 💢💦💨😁
 
 - HTML
 - CSS
 - GitHub e Git
 
-## Contato 💜
+## Contato 👀💭💌💢✨
+
+raphael2c505@gmail.com
